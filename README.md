@@ -1,6 +1,12 @@
 # DDOS_TYTYD
 V1 and V2 DDOS Tools
 
+## Img Tools
+
+<img src="https://github.com/AmmarrBN/DDOS_TYTYD/blob/main/IMG_20220620_234116.jpg" width="440" title="Menu" alt="Menu">
+
+
+## Script Code
 ```js
 #Buat Belajar Jan Dec Mulu Kontol
 import os,sys,time,socket,random,string,optparse
