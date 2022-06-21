@@ -3,7 +3,7 @@ V1 and V2 DDOS Tools
 
 ## Img Tools
 
-<img src="https://github.com/AmmarrBN/DDOS_TYTYD/blob/main/IMG_20220620_234116.jpg" width="440" title="Menu" alt="Menu">
+<img src="https://github.com/AmmarrBN/DDOS_TYTYD/blob/main/IMG_20220621_105117.jpg" width="440" title="Menu" alt="Menu">
 
 
 ## Script Code
